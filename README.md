@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - Open source projects that interest me
 - 📫 How to reach me ...
-- Check out my resume site at https://shimekukuri.github.io/resume/ and follow the contact me form
+- Check out my resume site at jameshutchinson.dev and follow the contact me form
 
 <!---
 shimekukuri/shimekukuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
