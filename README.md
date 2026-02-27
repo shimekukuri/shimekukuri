@@ -4,3 +4,4 @@ shimekukuri/shimekukuri is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Most of my work is locked away in Enterprise gh :( 
+I don't use github much I'm on codeberg. 
